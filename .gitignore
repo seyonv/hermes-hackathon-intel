@@ -1,0 +1,4 @@
+.DS_Store
+*.log
+.hackathon-update-state.json
+node_modules/
