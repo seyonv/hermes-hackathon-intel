@@ -1,4 +1,5 @@
 .DS_Store
 *.log
 .hackathon-update-state.json
+.gh_push_token
 node_modules/
